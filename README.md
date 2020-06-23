@@ -2,7 +2,8 @@
 *The tides of war rage on..*
 
 Battleships v2.0 is a C++ console game with graphics, advanced AI, multiplayer, and other features.
-This project is an improvement upon my previous battleship game, with a cleaner and more organized code base, multiplayer gameplay, and lots of bugs squashed.
+This project is an improvement upon my previous battleship game, with a cleaner and more organized code base, multiplayer gameplay,
+and lots of bugs squashed.
 
 # Features
 - Pixel by pixel crafted graphics with an animated intro
@@ -12,19 +13,19 @@ This project is an improvement upon my previous battleship game, with a cleaner 
 ![Features](screenshots/menu.PNG)
 
 - Offline gameplay with automatic ship placement for quick play and animated gameplay dialog
-![Features](screenshots/gameplay1.PNG)
+![Offline Gameplay](screenshots/gameplay1.PNG)
 
 - Advanced AI
 ![Advanced AI](screenshots/gameplay2.PNG)
 
 - Multiplayer hosting as easy as clicking one key
-![Features](screenshots/mhost.PNG)
+![Multiplayer Host](screenshots/mhost.PNG)
 
 - Join your friend's game by entering his IP
-![Features](screenshots/mjoin.PNG)
+![Multiplayer Join](screenshots/mjoin.PNG)
 
 - Last game preview through your menus
-![Features](screenshots/EndGame2.PNG)
+![Game preview](screenshots/EndGame2.PNG)
 
 # Prerequisites
 ANSI escape code needs to be enabled on your console in order to process colors correctly otherwise game won't function properly.
