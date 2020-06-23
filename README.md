@@ -27,7 +27,7 @@ and lots of bugs squashed.
 
 ![Multiplayer Join](screenshots/mjoin.PNG)
 
-- Last game preview through your menus
+- Last game preview in your menus
 
 ![Game preview](screenshots/EndGame2.PNG)
 
