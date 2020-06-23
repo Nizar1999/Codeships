@@ -14,7 +14,7 @@ This project is an improvement upon my previous battleship game, with a cleaner 
 - Offline gameplay with automatic ship placement for quick play and animated gameplay dialog
 ![Features](screenshots/gameplay1.PNG)
 
-- advanced AI
+- Advanced AI
 ![Features](screenshots/gameplay2.PNG)
 
 - Multiplayer hosting as easy as clicking one key
