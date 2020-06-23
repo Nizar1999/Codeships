@@ -1,0 +1,4 @@
+﻿  logic.cpp
+C:\Users\b1t\source\repos\Battleships v2.0\Battleships v2.0\logic.cpp(847,7): warning C4101: 'data': unreferenced local variable
+C:\Users\b1t\source\repos\Battleships v2.0\Battleships v2.0\logic.cpp(491): warning C4715: 'checkhit': not all control paths return a value
+  Battleships v2.0.vcxproj -> C:\Users\b1t\source\repos\Battleships v2.0\Debug\Battleships v2.0.exe
