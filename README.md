@@ -15,7 +15,7 @@ This project is an improvement upon my previous battleship game, with a cleaner 
 ![Features](screenshots/gameplay1.PNG)
 
 - Advanced AI
-![Features](screenshots/gameplay2.PNG)
+![Advanced AI](screenshots/gameplay2.PNG)
 
 - Multiplayer hosting as easy as clicking one key
 ![Features](screenshots/mhost.PNG)
