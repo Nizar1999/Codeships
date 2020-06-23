@@ -7,12 +7,15 @@ and lots of bugs squashed.
 
 # Features
 - Pixel by pixel crafted graphics with an animated intro
+
 ![Features](screenshots/intro.PNG)
 
 - Quick-use hotkey based menu (navigation by clicking the first letter of each option)
+
 ![Features](screenshots/menu.PNG)
 
 - Offline gameplay with automatic ship placement for quick play and animated gameplay dialog
+
 ![Offline Gameplay](screenshots/gameplay1.PNG)
 
 - Advanced AI
