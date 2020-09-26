@@ -18,7 +18,7 @@ and lots of bugs squashed.
 
 ![Offline Gameplay](screenshots/gameplay1.PNG)
 
-- Advanced AI
+- Play against a bot
 
 ![Advanced AI](screenshots/gameplay2.PNG)
 
