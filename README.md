@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-![Features](screenshots/Banner.png)
+<img src="https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png">
 </div>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/nizar1999/codeships?color=%2303a9f4)
