@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png" width = 55%; height=55% />
-  <a src="https://github.com/Nizar1999/Codeships#features">Features</a>
+  <a href="https://github.com/Nizar1999/Codeships#features">Features</a>
 </p>
 
 
