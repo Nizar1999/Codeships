@@ -1,9 +1,12 @@
-# Battleships-v2.0
-*The tides of war rage on..*
+![Features](screenshots/Banner.png)
 
-Battleships v2.0 is a C++ console game with graphics, bots, multiplayer, and other features.
-This project is an improvement upon my previous battleship game, with a cleaner and more organized code base, multiplayer gameplay,
-and lots of bugs squashed.
+![GitHub top language](https://img.shields.io/github/languages/top/nizar1999/codeships?color=%2303a9f4)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?color=%2303a9f4)
+
+# *The tides of war rage on..* !
+
+C++ implementation of Battleships completely functional on the Window's commandline!
+Playable offline and over LAN.
 
 # Features
 - Pixel by pixel crafted graphics with an animated intro
