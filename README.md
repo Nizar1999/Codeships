@@ -1,6 +1,6 @@
 ![Features](screenshots/Banner.png)
 
-*The tides of war rage on..* https://img.shields.io/github/v/release/nizar1999/Codeships
+*The tides of war rage on..* ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships)
 
 C++ implementation of Battleships completely playable on the Window's commandline!
 Playable offline and over LAN.
