@@ -10,33 +10,14 @@ C++ implementation of Battleships completely functional on the Window's commandl
 Playable offline and over LAN.
 
 # Features
-- Pixel by pixel crafted graphics with an animated intro
+- Pixel Graphics Including an Animated Intro
+- Quick-use Hotkey Based Menu
+- Offline Gameplay Against Challenging Bots
+- LAN Multiplayer
 
-![Features](screenshots/intro.PNG)
-
-- Quick-use hotkey based menu (navigation by clicking the first letter of each option)
-
-![Features](screenshots/menu.PNG)
-
-- Offline gameplay with automatic ship placement for quick play and animated gameplay dialog
-
-![Offline Gameplay](screenshots/gameplay1.PNG)
-
-- Play against a bot
-
-![Advanced AI](screenshots/gameplay2.PNG)
-
-- Multiplayer hosting as easy as clicking one key
-
-![Multiplayer Host](screenshots/mhost.PNG)
-
-- Join your friend's game by entering his IP
-
-![Multiplayer Join](screenshots/mjoin.PNG)
-
-- Last game preview in your menus
-
-![Game preview](screenshots/EndGame2.PNG)
+# Sample Gameplay
+![screen-gif](./screenshots/Gameplay.gif)
 
 # Prerequisites
-ANSI escape code needs to be enabled on your console in order to process colors correctly otherwise game won't function properly.
+ANSI escape code needs to be enabled on your console in order to preview colors correctly.
+Use Windows Console Host as Default Terminal Application for best results
