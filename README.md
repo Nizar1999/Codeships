@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png" width = 40%; height=40% />
+  <img src="https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png" width = 55%; height=55% />
 </p>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/nizar1999/codeships?color=%2303a9f4)
