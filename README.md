@@ -1,6 +1,6 @@
 ![Features](screenshots/Banner.png)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?color=%233399cc&style=for-the-badge)
 
 *The tides of war rage on..* !
 
