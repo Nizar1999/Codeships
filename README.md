@@ -5,7 +5,7 @@
    | 
   <a href="https://github.com/Nizar1999/Codeships#sample-gameplay">Gameplay</a>
    | 
-  <a href="https://github.com/Nizar1999/Codeships#prequisites">Prerequisites</a>
+  <a href="https://github.com/Nizar1999/Codeships#prerequisites">Prerequisites</a>
 </p>
 
 
