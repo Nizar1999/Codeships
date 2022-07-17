@@ -1,4 +1,4 @@
-![Features](screenshots/Banner.PNG)
+![Features](screenshots/Banner.png)
 *The tides of war rage on..*
 
 Battleships v2.0 is a C++ console game with graphics, bots, multiplayer, and other features.
