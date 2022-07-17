@@ -1,6 +1,11 @@
-<div style="text-align: center;">
-![alt text](https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png "Banner")
-</div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png" 
+    alt="Banner">
+</img>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/nizar1999/codeships?color=%2303a9f4)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?color=%2303a9f4)
