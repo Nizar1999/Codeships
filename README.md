@@ -1,7 +1,5 @@
 <img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;"
+    align="center"
     src="https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png" 
     alt="Banner">
 </img>
