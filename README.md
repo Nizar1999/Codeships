@@ -20,4 +20,5 @@ Playable offline and over LAN.
 
 # Prerequisites
 ANSI escape code needs to be enabled on your console in order to preview colors correctly.
+
 Use Windows Console Host as Default Terminal Application for best results
