@@ -2,9 +2,9 @@
   <img src="https://github.com/Nizar1999/Codeships/blob/master/screenshots/Banner.png" width = 55%; height=55% />
   <br/>
   <a href="https://github.com/Nizar1999/Codeships#features">Features</a>
-  <li/>
+   | 
   <a href="https://github.com/Nizar1999/Codeships#sample-gameplay">Gameplay</a>
-  <li/>
+   | 
   <a href="https://github.com/Nizar1999/Codeships#prequisites">Prerequisites</a>
 </p>
 
