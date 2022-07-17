@@ -6,6 +6,8 @@
   <a href="https://github.com/Nizar1999/Codeships#sample-gameplay">Gameplay</a>
    | 
   <a href="https://github.com/Nizar1999/Codeships#prerequisites">Prerequisites</a>
+   | 
+  <a href="https://github.com/Nizar1999/Codeships#acknowledgements">Acknowledgements</a>
 </p>
 
 
@@ -28,3 +30,6 @@ C++ implementation of Battleships completely functional on the Window's commandl
 ANSI escape code needs to be enabled on your console in order to preview colors correctly.
 
 Use Windows Console Host as Default Terminal Application for best results
+
+# Acknowledgements
+ASCII Submarine By Scott Mason
