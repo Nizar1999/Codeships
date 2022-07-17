@@ -1,4 +1,6 @@
+<div style="text-align: center;">
 ![Features](screenshots/Banner.png)
+</div>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/nizar1999/codeships?color=%2303a9f4)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?color=%2303a9f4)
