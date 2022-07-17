@@ -4,7 +4,7 @@
 
 # *The tides of war rage on..* !
 
-C++ implementation of Battleships completely playable on the Window's commandline!
+C++ implementation of Battleships completely functional on the Window's commandline!
 Playable offline and over LAN.
 
 # Features
