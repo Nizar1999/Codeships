@@ -7,7 +7,7 @@
    | 
   <a href="https://github.com/Nizar1999/Codeships#prerequisites">Prerequisites</a>
    | 
-  <a href="https://github.com/Nizar1999/Codeships#acknowledgements">Acknowledgements</a>
+  <a href="https://github.com/Nizar1999/Codeships#acknowledgments">Acknowledgments</a>
 </p>
 
 
@@ -31,5 +31,5 @@ ANSI escape code needs to be enabled on your console in order to preview colors 
 
 Use Windows Console Host as Default Terminal Application for best results
 
-# Acknowledgements
+# Acknowledgments
 ASCII Submarine By Scott Mason
