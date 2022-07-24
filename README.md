@@ -11,7 +11,7 @@
 </p>
 
 
-![GitHub top language](https://img.shields.io/badge/-MADE%20WITH%20C++-black?style=for-the-badge&logo=c++)
+![GitHub top language](https://img.shields.io/badge/-C++-%2303a9f4?style=for-the-badge&logo=c++)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?color=%2303a9f4)
 # *The tides of war rage on..* !
 
