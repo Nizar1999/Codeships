@@ -13,7 +13,7 @@
 
 ![GitHub top language](https://img.shields.io/badge/-C++-%2303a9f4?style=for-the-badge&logo=cplusplus) 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?style=for-the-badge&color=%2303a9f4)
-# *The tides of war rage on..* !
+# *The tides of war rage on.. !*
 
 Implementation of Battleships completely functional on the Window's commandline!
 
