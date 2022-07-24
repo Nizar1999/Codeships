@@ -15,7 +15,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nizar1999/Codeships?color=%2303a9f4)
 # *The tides of war rage on..* !
 
-C++ implementation of Battleships completely functional on the Window's commandline!
+Implementation of Battleships completely functional on the Window's commandline!
 
 # Features
 - Pixel Graphics Including an Animated Intro
